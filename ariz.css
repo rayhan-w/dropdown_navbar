@@ -82,8 +82,8 @@ button{
 
 
 button:hover{
-	background-color: black;
-	color: white;
+	background-color: rgb(0, 255, 238);
+	color: black;
 }
 
 .box button{
